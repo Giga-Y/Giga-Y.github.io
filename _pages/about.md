@@ -10,9 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fourth-year undergraduate student in Communication Engineering at Nanjing University of Posts and Telecommunications (NJUPT). During my undergraduate studies, my research focused on array signal processing. I will soon pursue my Ph.D. degree at the State Key Laboratory of Photonics and Communications, Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Lilin Yi.
+I am currently a fourth-year undergraduate student in Communication Engineering at the School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications (NJUPT). During my undergraduate studies, my research focused on array signal processing. I will soon pursue my Ph.D. degree in Information and Communication Engineering at the School of Integrated Circuits, Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Lilin Yi.
 
-My future research interests lie in AI-empowered optical communication systems. 
+My future research interests lie in AI-empowered optical communication systems.
 
 If you are interested in my research or would like to collaborate, please feel free to reach out!
 
@@ -22,8 +22,8 @@ If you are interested in my research or would like to collaborate, please feel f
 
 
 # 📖 Educations
-- *2027.09 - Future*, Ph.D. in Electronic and Information Engineering, Shanghai Jiao Tong University (SJTU).
-- *2023.09 - 2027.06*, B.E. in Communication Engineering, Nanjing University of Posts and Telecommunications (NJUPT).
+- *2027.09 - Future*, Ph.D. in Information and Communication Engineering, School of Integrated Circuits, Shanghai Jiao Tong University (SJTU).
+- *2023.09 - 2027.06*, B.E. in Communication Engineering, School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications (NJUPT).
 
 
 # 🎖 Honors and Awards
