@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yang Gu"
-description              : "Fourth-year undergraduate student in Communication Engineering at Nanjing University of Posts and Telecommunications (NJUPT), focusing on Direction-of-Arrival estimation. "
-repository               : "gu275/gu275.github.io"
+description              : "Incoming Ph.D. student at Shanghai Jiao Tong University (SJTU), focusing on AI Agents for Optical Networks."
+repository               : "Giga-Y/Giga-Y.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yang Gu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Incoming Phd @ Shanghai Jiao Tong University (SJTU)"
-  location         : "Nanjing, China"
+  bio              : "Incoming Ph.D. @ SJTU | AI Agents for Optical Networks"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "" # 如果你没有谷歌学术主页，保持为空即可
   email            : "b23010526@njupt.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -37,18 +37,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Gu275"
+  github           : "Giga-Y"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  linkedin         : 
+  dblp             : 
   orcid            : "https://orcid.org/0009-0003-5769-1877"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
@@ -131,12 +131,12 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed 
 
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai 
 
 
 # Plugins
@@ -156,7 +156,6 @@ whitelist:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
