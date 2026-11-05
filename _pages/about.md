@@ -27,9 +27,9 @@ If you are interested in my research or would like to collaborate, please feel f
 
 
 # 🎖 Honors and Awards
-- *2026.10* National Scholarship (国家奖学金).
-- *2025* Finalist, Mathematical Contest in Modeling (MCM/ICM) (美国大学生数学建模比赛 Finalist).
-- *2024* National Special Prize, National English Competition for College Students (NECCS) (全国大学生英语竞赛特等奖).
+- *2026.10* National Scholarship.
+- *2025* Finalist, Mathematical Contest in Modeling (MCM/ICM).
+- *2024* National Special Prize, National English Competition for College Students (NECCS).
 
 
 # 📝 Publications 
