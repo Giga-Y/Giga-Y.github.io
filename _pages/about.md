@@ -32,6 +32,4 @@ If you are interested in my research or would like to collaborate, please feel f
 
 
 # 📝 Publications 
-<!-- 如果你有发表的论文，可以参考下面的格式添加；如果没有，这一部分可以先空着或者直接删掉 -->
-
-- **Yang Gu**, et al. "[Your Paper Title Here]", in *2026 International Conference on Communication Technology (ICCT)*, 2026. <!-- 把这里换成你的论文题目 -->
+- **Yang Gu**, et al. "[Your Paper Title Here]", in *2026 International Conference on Communication Technology (ICCT)*, 2026. **(Accepted)**
