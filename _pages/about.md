@@ -22,8 +22,8 @@ If you are interested in my research or would like to collaborate, please feel f
 
 
 # 📖 Educations
-- *2026.09 - Future*, Ph.D. in Information and Communication Engineering, School of Integrated Circuits, Shanghai Jiao Tong University (SJTU).
-- *2022.09 - 2026.06*, B.E. in Communication Engineering, School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications (NJUPT).
+- *2027.09 - Future*, Ph.D. in Information and Communication Engineering, School of Integrated Circuits, Shanghai Jiao Tong University (SJTU).
+- *2023.09 - 2027.06*, B.E. in Communication Engineering, School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications (NJUPT).
 
 
 # 🎖 Honors and Awards
