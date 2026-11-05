@@ -18,7 +18,7 @@ If you are interested in my research or would like to collaborate, please feel f
 
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 One paper has been accepted by **ICCT 2026** (International Conference on Communication Technology).
+- *2026.07*: &nbsp;🎉🎉 Our paper "Scale-Adaptive Low-Complexity 3-D Mixed Source Localization for Uniform Planar Arrays" has been accepted by **ICCT 2026**!
 
 
 # 📖 Educations
@@ -32,4 +32,4 @@ If you are interested in my research or would like to collaborate, please feel f
 
 
 # 📝 Publications 
-- **Yang Gu**, et al. "[Your Paper Title Here]", in *2026 International Conference on Communication Technology (ICCT)*, 2026. **(Accepted)**
+- **Yang Gu**, Xiaohuan Wu, "Scale-Adaptive Low-Complexity 3-D Mixed Source Localization for Uniform Planar Arrays," in *2026 International Conference on Communication Technology (ICCT)*, 2026. **(Accepted)**
