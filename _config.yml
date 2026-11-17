@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yang Gu"
+title                    : "Yang Gu （顾杨）"
 description              : "Incoming Ph.D. student at Shanghai Jiao Tong University (SJTU), focusing on AI Agents for Optical Networks."
 repository               : "Giga-Y/Giga-Y.github.io"
 google_scholar_stats_use_cdn : true
