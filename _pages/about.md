@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fourth-year undergraduate student majoring in Communication Engineering at the School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications (NJUPT), China. During my undergraduate studies, I conducted research on array signal processing under the supervision of Xiaohuan Wu.
+I am currently a fourth-year undergraduate student majoring in Communication Engineering at the School of Communications and Information Engineering, Nanjing University of Posts and Telecommunications (NJUPT), China. During my undergraduate studies, I conducted research on array signal processing under the supervision of Assoc. Prof. Xiaohuan Wu.
 
 I will soon pursue my Ph.D. degree in Information and Communication Engineering at the School of Information Science and Electronic Engineering, Shanghai Jiao Tong University (SJTU), Shanghai, China, under the supervision of Prof. Lilin Yi. I will be affiliated with the **Future Ready Optical Network Technology Research Group (FRONT)** at the **State Key Laboratory of Photonics and Communications, SJTU**.
 
